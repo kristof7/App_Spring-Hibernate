@@ -1,4 +1,4 @@
-package com.kamper.accessingdatajpa;
+package com.kampa.accessingdatajpa;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

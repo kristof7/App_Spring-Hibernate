@@ -1,4 +1,4 @@
-package com.kamper.accessingdatajpa;
+package com.kampa.accessingdatajpa;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
